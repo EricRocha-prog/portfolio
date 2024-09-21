@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <header class="bg-primary text-white text-center py-3">
+        <h1>Bem-vindo ao Meu Site</h1>
+        <nav>
+            <a href="#" class="text-white">Home</a>
+            <a href="#" class="text-white">Sobre</a>
+            <a href="#" class="text-white">Contato</a>
+        </nav>
+    </header>
+    <main class="container my-4">
+        <h2>Lorem ipsum</h2>
+        <p>Lorem ipsum dolor sit amet. Eum dolore minus non tempore reiciendis aut incidunt consectetur ex autem vero rem iste modi ut soluta repudiandae sit accusamus consequatur. Nam dignissimos autem qui minima commodi ut perspiciatis vero qui dicta dolorem aut omnis nostrum aut quia internos qui sapiente dolore.
+
+            Ut porro molestias eum quibusdam dolorum vel quis saepe aut perspiciatis assumenda eos neque eaque sit maiores minus. Quo tempora galisum aut harum aliquid aut enim nesciunt sed illo autem et modi molestiae.
+            
+            Qui iure temporibus qui ducimus tempora est itaque earum ut tenetur architecto aut dolore optio sit distinctio quia. Eum consequatur dolores est nihil tenetur aut aperiam laborum ut cumque ame.</p>
+    </main>
+    <footer class="text-center py-3">
+        <p>&copy; 2024 Meu Site</p>
+    </footer>
+</body>
+</html>
